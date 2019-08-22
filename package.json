@@ -1,0 +1,24 @@
+{
+  "name": "@ynab-design-system/base-theme",
+  "version": "0.1.0",
+  "description": "base theme -- colors, fonts, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynab-design-system/base-theme.git"
+  },
+  "author": "RV Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynab-design-system/base-theme/issues"
+  },
+  "homepage": "https://github.com/ynab-design-system/base-theme#readme",
+  "dependencies": {
+    "theme-ui": "^0.2.36",
+    "typography": "^0.16.19",
+    "typography-theme-moraga": "^0.16.19"
+  }
+}
